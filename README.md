@@ -1,2 +1,2 @@
-# Brick-Breaker-Game
+# Brick-Breaker-Ball-Game
 Java, Swing, Graphics, AWT
